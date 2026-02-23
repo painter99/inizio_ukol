@@ -1,0 +1,354 @@
+{
+    "search_metadata": {
+        "id": "699c9bc009a51afdbcb7aec6",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/NuPuzXs0xSg2xsUQm8HOuw/699c9bc009a51afdbcb7aec6.json",
+        "pixel_position_endpoint": "https://serpapi.com/searches/NuPuzXs0xSg2xsUQm8HOuw/699c9bc009a51afdbcb7aec6.json_with_pixel_position",
+        "created_at": "2026-02-23 18:26:08 UTC",
+        "processed_at": "2026-02-23 18:26:08 UTC",
+        "google_url": "https://www.google.com/search?q=Pavel+Mare%C5%A1+Inizio&oq=Pavel+Mare%C5%A1+Inizio&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/NuPuzXs0xSg2xsUQm8HOuw/699c9bc009a51afdbcb7aec6.html",
+        "total_time_taken": 2.85
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "Pavel Mareš Inizio",
+        "google_domain": "google.com",
+        "device": "desktop"
+    },
+    "search_information": {
+        "query_displayed": "Pavel Mareš Inizio",
+        "total_results": 646,
+        "time_taken_displayed": 0.77,
+        "organic_results_state": "Results for exact spelling"
+    },
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "Pavel Mareš",
+            "link": "https://en.wikipedia.org/wiki/Pavel_Mare%C5%A1",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Pavel_Mare%25C5%25A1&ved=2ahUKEwiB5qO9nvCSAxUbnWoFHUzlJocQFnoECB0QAQ",
+            "displayed_link": "https://en.wikipedia.org › wiki › Pavel_Mareš",
+            "favicon": "https://serpapi.com/searches/699c9bc009a51afdbcb7aec6/images/CCISsD6gQZ-RuCXtcy-1dsREfAx_7l4KAi92PbjyDY8.png",
+            "snippet": "Pavel Mareš (born 18 January 1976) is a Czech former professional footballer who played as a defender at either centre-back or left-back.",
+            "snippet_highlighted_words": [
+                "Pavel Mare"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "Pavel Mareš (born 18 January 1976) is a Czech former professional footballer who played as a defender at either centre-back or left-back.",
+                    "source_info_link": "https://en.wikipedia.org/wiki/Pavel_Mare%C5%A1",
+                    "icon": "https://serpapi.com/searches/699c9bc009a51afdbcb7aec6/images/CCISsD6gQZ-RuCXtcy-1dmlJifcEQKwgFjB9SDpAFazWv-IBqbTVhNEoM1nxpdZj.png"
+                },
+                "languages": [
+                    "en"
+                ],
+                "regions": [
+                    "US"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://en.wikipedia.org/wiki/Pavel_Mare%C5%A1&tbm=ilp",
+            "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FPavel_Mare%25C5%25A1",
+            "missing": [
+                "Inizio"
+            ],
+            "must_include": {
+                "word": "Inizio",
+                "link": "https://www.google.com/search?sca_esv=0066cc4b3f6e172b&q=Pavel+Mare%C5%A1+%22Inizio%22&sa=X&ved=2ahUKEwiB5qO9nvCSAxUbnWoFHUzlJocQ5t4CegQIHxAB"
+            },
+            "source": "Wikipedia"
+        },
+        {
+            "position": 2,
+            "title": "Práce v Inizio marketing media",
+            "link": "https://webtrh.cz/diskuse/prace-v-inizio-marketing-media/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://webtrh.cz/diskuse/prace-v-inizio-marketing-media/&ved=2ahUKEwiB5qO9nvCSAxUbnWoFHUzlJocQFnoECCEQAQ",
+            "displayed_link": "https://webtrh.cz › diskuse › prace...",
+            "favicon": "https://serpapi.com/searches/699c9bc009a51afdbcb7aec6/images/CCISsD6gQZ-RuCXtcy-1drQ_CnpUscabS0hatIzND_E.png",
+            "snippet": "Je tu někdo, kdo pracoval v agentuře Inizio a podělil by se o zkušenosti, jak to tam tak zhruba chodí ? ... Pavel Mareš. verified. rating uzivatele. (19 hodnocení).",
+            "snippet_highlighted_words": [
+                "Inizio",
+                "Pavel Mareš"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "Je tu někdo, kdo pracoval v agentuře Inizio a podělil by se o zkušenosti, jak to tam tak zhruba chodí ? ... Pavel Mareš. verified. rating uzivatele. (19 hodnocení).",
+                    "source_info_link": "https://webtrh.cz/diskuse/prace-v-inizio-marketing-media/",
+                    "icon": "https://serpapi.com/searches/699c9bc009a51afdbcb7aec6/images/CCISsD6gQZ-RuCXtcy-1dum1rADYCW-bAmkHILlPIl782K9sWpfVTFIemrrO0UGT.png"
+                },
+                "languages": [
+                    "en"
+                ],
+                "regions": [
+                    "US"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://webtrh.cz/diskuse/prace-v-inizio-marketing-media/&tbm=ilp",
+            "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwebtrh.cz%2Fdiskuse%2Fprace-v-inizio-marketing-media%2F",
+            "source": "Webtrh.cz"
+        },
+        {
+            "position": 3,
+            "title": "Pavel Mares - Player profile | Transfermarkt - Transfer Market",
+            "link": "https://www.transfermarkt.us/pavel-mares/profil/spieler/15660",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.transfermarkt.us/pavel-mares/profil/spieler/15660&ved=2ahUKEwiB5qO9nvCSAxUbnWoFHUzlJocQFnoECCIQAQ",
+            "displayed_link": "https://www.transfermarkt.us › profil › spieler",
+            "favicon": "https://serpapi.com/searches/699c9bc009a51afdbcb7aec6/images/CCISsD6gQZ-RuCXtcy-1djPVKMpRzSAuXf6wQT7bqB8.jpeg",
+            "snippet": "Pavel Mares ➤ former footballer from Czech Republic ➤ Left-Back ➤ last club: FK Viktoria Zizkov ➤ * Jan 18, 1976 in Otrokovice, CSSR.",
+            "snippet_highlighted_words": [
+                "former footballer from Czech Republic"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "Pavel Mares ➤ former footballer from Czech Republic ➤ Left-Back ➤ last club: FK Viktoria Zizkov ➤ * Jan 18, 1976 in Otrokovice, CSSR.",
+                    "source_info_link": "https://www.transfermarkt.us/pavel-mares/profil/spieler/15660",
+                    "icon": "https://serpapi.com/searches/699c9bc009a51afdbcb7aec6/images/CCISsD6gQZ-RuCXtcy-1dsk2gx_7W6jlpQR_MbJvAQAQMYzceJBYIfiEClyWwROs.jpeg"
+                },
+                "languages": [
+                    "en"
+                ],
+                "regions": [
+                    "US"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.transfermarkt.us/pavel-mares/profil/spieler/15660&tbm=ilp",
+            "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.transfermarkt.us%2Fpavel-mares%2Fprofil%2Fspieler%2F15660",
+            "missing": [
+                "Inizio"
+            ],
+            "must_include": {
+                "word": "Inizio",
+                "link": "https://www.google.com/search?sca_esv=0066cc4b3f6e172b&q=Pavel+Mare%C5%A1+%22Inizio%22&sa=X&ved=2ahUKEwiB5qO9nvCSAxUbnWoFHUzlJocQ5t4CegQIKhAB"
+            },
+            "source": "transfermarkt.us"
+        },
+        {
+            "position": 4,
+            "title": "Pavel Mares – Marketing Director and Consultant ...",
+            "link": "https://cz.linkedin.com/in/pavel-mares-3114822",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://cz.linkedin.com/in/pavel-mares-3114822&ved=2ahUKEwiB5qO9nvCSAxUbnWoFHUzlJocQFnoECCAQAQ",
+            "displayed_link": "1.4K+ followers",
+            "favicon": "https://serpapi.com/searches/699c9bc009a51afdbcb7aec6/images/CCISsD6gQZ-RuCXtcy-1dqWnS42NMUL-s3jQmGCueKY.png",
+            "snippet": "Marketing Director and Consultant with Commercial Management experiences. · Pracovní zkušenosti: Professional support s.r.o. · Lokalita: Hlavní město Praha ...",
+            "snippet_highlighted_words": [
+                "Marketing Director and Consultant with Commercial Management experiences"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "Marketing Director and Consultant with Commercial Management experiences. · Pracovní zkušenosti: Professional support s.r.o. · Lokalita: Hlavní město Praha ...",
+                    "source_info_link": "https://cz.linkedin.com/in/pavel-mares-3114822",
+                    "icon": "https://serpapi.com/searches/699c9bc009a51afdbcb7aec6/images/CCISsD6gQZ-RuCXtcy-1dkH9iGuQy9AEyt9IwnKb7O7eeFJ3LE78QG9kfvjVb3MQ.png"
+                },
+                "languages": [
+                    "en"
+                ],
+                "regions": [
+                    "US"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://cz.linkedin.com/in/pavel-mares-3114822&tbm=ilp",
+            "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fcz.linkedin.com%2Fin%2Fpavel-mares-3114822",
+            "source": "LinkedIn · Pavel Mares"
+        },
+        {
+            "position": 5,
+            "title": "Pavel “Pufflick” Mares (@pufflick)",
+            "link": "https://www.instagram.com/pufflick/?hl=en",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.instagram.com/pufflick/%3Fhl%3Den&ved=2ahUKEwiB5qO9nvCSAxUbnWoFHUzlJocQFnoECDUQAQ",
+            "displayed_link": "84.5K+ followers",
+            "favicon": "https://serpapi.com/searches/699c9bc009a51afdbcb7aec6/images/CCISsD6gQZ-RuCXtcy-1did5mSimEzHd-lIAgqWx_yg.png",
+            "snippet": "Content Creator | Artist | DJ & Dad ‍ ‍ 🗣️ @hypebeast.guru & @deathreads.co founder 🏎️ @pink.scatpack owner born in traveling 24/7",
+            "snippet_highlighted_words": [
+                "Content Creator | Artist | DJ & Dad"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "Content Creator | Artist | DJ & Dad ‍ ‍ 🗣️ @hypebeast.guru & @deathreads.co founder 🏎️ @pink.scatpack owner born in traveling 24/7",
+                    "source_info_link": "https://www.instagram.com/pufflick/?hl=en",
+                    "icon": "https://serpapi.com/searches/699c9bc009a51afdbcb7aec6/images/CCISsD6gQZ-RuCXtcy-1diAqQXRg_kWXEwuxvqUMuFsDq_ZfDEbcaDUAOLznTFNB.png"
+                },
+                "languages": [
+                    "en"
+                ],
+                "regions": [
+                    "US"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.instagram.com/pufflick/?hl=en&tbm=ilp",
+            "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.instagram.com%2Fpufflick%2F%3Fhl%3Den",
+            "missing": [
+                "Inizio"
+            ],
+            "must_include": {
+                "word": "Inizio",
+                "link": "https://www.google.com/search?sca_esv=0066cc4b3f6e172b&q=Pavel+Mare%C5%A1+%22Inizio%22&sa=X&ved=2ahUKEwiB5qO9nvCSAxUbnWoFHUzlJocQ5t4CegQIQRAB"
+            },
+            "source": "Instagram · pufflick"
+        },
+        {
+            "position": 6,
+            "title": "Pavel Mareš, Professor, M.D., D.Sc. - FGU",
+            "link": "https://fgu.cas.cz/en/profil/prof-mudr-pavel-mares-drsc/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://fgu.cas.cz/en/profil/prof-mudr-pavel-mares-drsc/&ved=2ahUKEwiB5qO9nvCSAxUbnWoFHUzlJocQFnoECDMQAQ",
+            "displayed_link": "https://fgu.cas.cz › Home › People",
+            "favicon": "https://serpapi.com/searches/699c9bc009a51afdbcb7aec6/images/CCISsD6gQZ-RuCXtcy-1drbqATkThM-koXUb0yStsuA.png",
+            "snippet": "Prof. Mareš has been for decades a leader of experimental epilepsy research in the Czech Republic and his activity was recognized by Czech Physiological Society ...",
+            "snippet_highlighted_words": [
+                "Prof. Mare"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "Prof. Mareš has been for decades a leader of experimental epilepsy research in the Czech Republic and his activity was recognized by Czech Physiological Society ...",
+                    "source_info_link": "https://fgu.cas.cz/en/profil/prof-mudr-pavel-mares-drsc/",
+                    "icon": "https://serpapi.com/searches/699c9bc009a51afdbcb7aec6/images/CCISsD6gQZ-RuCXtcy-1dq3nvKbcQV9kggYWUblt12-ANplXOz-PK09G540H3tqK.png"
+                },
+                "languages": [
+                    "en"
+                ],
+                "regions": [
+                    "US"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://fgu.cas.cz/en/profil/prof-mudr-pavel-mares-drsc/&tbm=ilp",
+            "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Ffgu.cas.cz%2Fen%2Fprofil%2Fprof-mudr-pavel-mares-drsc%2F",
+            "missing": [
+                "Inizio"
+            ],
+            "must_include": {
+                "word": "Inizio",
+                "link": "https://www.google.com/search?sca_esv=0066cc4b3f6e172b&q=Pavel+Mare%C5%A1+%22Inizio%22&sa=X&ved=2ahUKEwiB5qO9nvCSAxUbnWoFHUzlJocQ5t4CegQIQBAB"
+            },
+            "source": "Fyziologický ústav Akademie věd ČR"
+        },
+        {
+            "position": 7,
+            "title": "Pavel Mareš (speedway rider)",
+            "link": "https://en.wikipedia.org/wiki/Pavel_Mare%C5%A1_(speedway_rider)",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Pavel_Mare%25C5%25A1_(speedway_rider)&ved=2ahUKEwiB5qO9nvCSAxUbnWoFHUzlJocQFnoECDEQAQ",
+            "displayed_link": "https://en.wikipedia.org › wiki › Pavel_Mareš_(speedw...",
+            "favicon": "https://serpapi.com/searches/699c9bc009a51afdbcb7aec6/images/CCISsD6gQZ-RuCXtcy-1dvkL5wYnCzNOpDqfml8EJY8.png",
+            "snippet": "Pavel Mareš (20 January 1943 – 4 June 2023) was an international speedway rider from the Czech Republic. Pavel Mareš. Born, 20 January 1943 (1943-01-20)",
+            "snippet_highlighted_words": [
+                "an international speedway rider from the Czech Republic"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "Pavel Mareš (20 January 1943 – 4 June 2023) was an international speedway rider from the Czech Republic. Pavel Mareš. Born, 20 January 1943 (1943-01-20)",
+                    "source_info_link": "https://en.wikipedia.org/wiki/Pavel_Mare%C5%A1_(speedway_rider)",
+                    "icon": "https://serpapi.com/searches/699c9bc009a51afdbcb7aec6/images/CCISsD6gQZ-RuCXtcy-1diJLjP_dVqMhwpn11KD9c9Vyg2G6PKuV6p7D5Muf1AYb.png"
+                },
+                "languages": [
+                    "en"
+                ],
+                "regions": [
+                    "US"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://en.wikipedia.org/wiki/Pavel_Mare%C5%A1_(speedway_rider)&tbm=ilp",
+            "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FPavel_Mare%25C5%25A1_%28speedway_rider%29",
+            "missing": [
+                "Inizio"
+            ],
+            "must_include": {
+                "word": "Inizio",
+                "link": "https://www.google.com/search?sca_esv=0066cc4b3f6e172b&q=Pavel+Mare%C5%A1+%22Inizio%22&sa=X&ved=2ahUKEwiB5qO9nvCSAxUbnWoFHUzlJocQ5t4CegQIQhAB"
+            },
+            "source": "Wikipedia"
+        },
+        {
+            "position": 8,
+            "title": "Inizio Academy - niekto, kto ma realne absolvovany kurz",
+            "link": "https://webtrh.cz/diskuse/inizio-academy-niekto-kto-ma-realne-absolvovany-kurz/strana/2/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://webtrh.cz/diskuse/inizio-academy-niekto-kto-ma-realne-absolvovany-kurz/strana/2/&ved=2ahUKEwiB5qO9nvCSAxUbnWoFHUzlJocQFnoECDQQAQ",
+            "displayed_link": "https://webtrh.cz › diskuse › strana",
+            "favicon": "https://serpapi.com/searches/699c9bc009a51afdbcb7aec6/images/CCISsD6gQZ-RuCXtcy-1dkgpliMd5VBkaqtdQuz_XQ0.png",
+            "snippet": "Inizio Academy – niekto, kto ma realne absolvovany kurz. Smazaný účet ... Pavel Mareš. verified. rating uzivatele. (19 hodnocení). 6. 7. 2020 12:53:06.",
+            "snippet_highlighted_words": [
+                "Inizio",
+                "Pavel Mareš"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "Inizio Academy – niekto, kto ma realne absolvovany kurz. Smazaný účet ... Pavel Mareš. verified. rating uzivatele. (19 hodnocení). 6. 7. 2020 12:53:06.",
+                    "source_info_link": "https://webtrh.cz/diskuse/inizio-academy-niekto-kto-ma-realne-absolvovany-kurz/strana/2/",
+                    "icon": "https://serpapi.com/searches/699c9bc009a51afdbcb7aec6/images/CCISsD6gQZ-RuCXtcy-1dq7NmM3kcAdEUQklWOaHIfFS3y_2ddMaxpA5AN9TI1FU.png"
+                },
+                "languages": [
+                    "en"
+                ],
+                "regions": [
+                    "US"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://webtrh.cz/diskuse/inizio-academy-niekto-kto-ma-realne-absolvovany-kurz/strana/2/&tbm=ilp",
+            "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwebtrh.cz%2Fdiskuse%2Finizio-academy-niekto-kto-ma-realne-absolvovany-kurz%2Fstrana%2F2%2F",
+            "source": "Webtrh.cz"
+        },
+        {
+            "position": 9,
+            "title": "Pavel Mareš » Profile",
+            "link": "https://www.worldfootball.net/person/pe24318/pavel-mares/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.worldfootball.net/person/pe24318/pavel-mares/&ved=2ahUKEwiB5qO9nvCSAxUbnWoFHUzlJocQFnoECDIQAQ",
+            "displayed_link": "https://www.worldfootball.net › person › pavel-mares",
+            "favicon": "https://serpapi.com/searches/699c9bc009a51afdbcb7aec6/images/CCISsD6gQZ-RuCXtcy-1dkGjIjp5JGv82-6q1pHsHaQ.png",
+            "snippet": "Pavel Mareš, Current Matches · 1. fotbalová liga · Pohár FAČR · All competitions ... Pavel Mareš; Birthday: 18.01.1976 | 50 Years; born in: Czech Republic ...",
+            "snippet_highlighted_words": [
+                "Pavel Mare"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "Pavel Mareš, Current Matches · 1. fotbalová liga · Pohár FAČR · All competitions ... Pavel Mareš; Birthday: 18.01.1976 | 50 Years; born in: Czech Republic ...",
+                    "source_info_link": "https://www.worldfootball.net/person/pe24318/pavel-mares/",
+                    "icon": "https://serpapi.com/searches/699c9bc009a51afdbcb7aec6/images/CCISsD6gQZ-RuCXtcy-1dnHqTzL6b9no1NiSabrQOcNA7yFnT-zyULtQEnKofIGb.png"
+                },
+                "languages": [
+                    "en"
+                ],
+                "regions": [
+                    "US"
+                ]
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.worldfootball.net/person/pe24318/pavel-mares/&tbm=ilp",
+            "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.worldfootball.net%2Fperson%2Fpe24318%2Fpavel-mares%2F",
+            "missing": [
+                "Inizio"
+            ],
+            "must_include": {
+                "word": "Inizio",
+                "link": "https://www.google.com/search?sca_esv=0066cc4b3f6e172b&q=Pavel+Mare%C5%A1+%22Inizio%22&sa=X&ved=2ahUKEwiB5qO9nvCSAxUbnWoFHUzlJocQ5t4CegQIQxAB"
+            },
+            "source": "worldfootball.net"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=Pavel+Mare%C5%A1+Inizio&sca_esv=0066cc4b3f6e172b&ei=wZucacGBLZu6qtsPzMqbuQg&start=10&sa=N&sstk=Af77f_c8fKR59mUBTZoZFaDoCSjeGseOIxzzctcDCASyY9E07Z1HcbUG8uZxvrVQEqUSn7RHNUnC8sIndzQ4CXq7ysaBLWtFW_r-8Q&ved=2ahUKEwiB5qO9nvCSAxUbnWoFHUzlJocQ8NMDegQICRAW",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=Pavel+Mare%C5%A1+Inizio&sca_esv=0066cc4b3f6e172b&ei=wZucacGBLZu6qtsPzMqbuQg&start=10&sa=N&sstk=Af77f_c8fKR59mUBTZoZFaDoCSjeGseOIxzzctcDCASyY9E07Z1HcbUG8uZxvrVQEqUSn7RHNUnC8sIndzQ4CXq7ysaBLWtFW_r-8Q&ved=2ahUKEwiB5qO9nvCSAxUbnWoFHUzlJocQ8tMDegQICRAE",
+            "3": "https://www.google.com/search?q=Pavel+Mare%C5%A1+Inizio&sca_esv=0066cc4b3f6e172b&ei=wZucacGBLZu6qtsPzMqbuQg&start=20&sa=N&sstk=Af77f_c8fKR59mUBTZoZFaDoCSjeGseOIxzzctcDCASyY9E07Z1HcbUG8uZxvrVQEqUSn7RHNUnC8sIndzQ4CXq7ysaBLWtFW_r-8Q&ved=2ahUKEwiB5qO9nvCSAxUbnWoFHUzlJocQ8tMDegQICRAG",
+            "4": "https://www.google.com/search?q=Pavel+Mare%C5%A1+Inizio&sca_esv=0066cc4b3f6e172b&ei=wZucacGBLZu6qtsPzMqbuQg&start=30&sa=N&sstk=Af77f_c8fKR59mUBTZoZFaDoCSjeGseOIxzzctcDCASyY9E07Z1HcbUG8uZxvrVQEqUSn7RHNUnC8sIndzQ4CXq7ysaBLWtFW_r-8Q&ved=2ahUKEwiB5qO9nvCSAxUbnWoFHUzlJocQ8tMDegQICRAI",
+            "5": "https://www.google.com/search?q=Pavel+Mare%C5%A1+Inizio&sca_esv=0066cc4b3f6e172b&ei=wZucacGBLZu6qtsPzMqbuQg&start=40&sa=N&sstk=Af77f_c8fKR59mUBTZoZFaDoCSjeGseOIxzzctcDCASyY9E07Z1HcbUG8uZxvrVQEqUSn7RHNUnC8sIndzQ4CXq7ysaBLWtFW_r-8Q&ved=2ahUKEwiB5qO9nvCSAxUbnWoFHUzlJocQ8tMDegQICRAK",
+            "6": "https://www.google.com/search?q=Pavel+Mare%C5%A1+Inizio&sca_esv=0066cc4b3f6e172b&ei=wZucacGBLZu6qtsPzMqbuQg&start=50&sa=N&sstk=Af77f_c8fKR59mUBTZoZFaDoCSjeGseOIxzzctcDCASyY9E07Z1HcbUG8uZxvrVQEqUSn7RHNUnC8sIndzQ4CXq7ysaBLWtFW_r-8Q&ved=2ahUKEwiB5qO9nvCSAxUbnWoFHUzlJocQ8tMDegQICRAM",
+            "7": "https://www.google.com/search?q=Pavel+Mare%C5%A1+Inizio&sca_esv=0066cc4b3f6e172b&ei=wZucacGBLZu6qtsPzMqbuQg&start=60&sa=N&sstk=Af77f_c8fKR59mUBTZoZFaDoCSjeGseOIxzzctcDCASyY9E07Z1HcbUG8uZxvrVQEqUSn7RHNUnC8sIndzQ4CXq7ysaBLWtFW_r-8Q&ved=2ahUKEwiB5qO9nvCSAxUbnWoFHUzlJocQ8tMDegQICRAO",
+            "8": "https://www.google.com/search?q=Pavel+Mare%C5%A1+Inizio&sca_esv=0066cc4b3f6e172b&ei=wZucacGBLZu6qtsPzMqbuQg&start=70&sa=N&sstk=Af77f_c8fKR59mUBTZoZFaDoCSjeGseOIxzzctcDCASyY9E07Z1HcbUG8uZxvrVQEqUSn7RHNUnC8sIndzQ4CXq7ysaBLWtFW_r-8Q&ved=2ahUKEwiB5qO9nvCSAxUbnWoFHUzlJocQ8tMDegQICRAQ",
+            "9": "https://www.google.com/search?q=Pavel+Mare%C5%A1+Inizio&sca_esv=0066cc4b3f6e172b&ei=wZucacGBLZu6qtsPzMqbuQg&start=80&sa=N&sstk=Af77f_c8fKR59mUBTZoZFaDoCSjeGseOIxzzctcDCASyY9E07Z1HcbUG8uZxvrVQEqUSn7RHNUnC8sIndzQ4CXq7ysaBLWtFW_r-8Q&ved=2ahUKEwiB5qO9nvCSAxUbnWoFHUzlJocQ8tMDegQICRAS",
+            "10": "https://www.google.com/search?q=Pavel+Mare%C5%A1+Inizio&sca_esv=0066cc4b3f6e172b&ei=wZucacGBLZu6qtsPzMqbuQg&start=90&sa=N&sstk=Af77f_c8fKR59mUBTZoZFaDoCSjeGseOIxzzctcDCASyY9E07Z1HcbUG8uZxvrVQEqUSn7RHNUnC8sIndzQ4CXq7ysaBLWtFW_r-8Q&ved=2ahUKEwiB5qO9nvCSAxUbnWoFHUzlJocQ8tMDegQICRAU"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Pavel+Mare%C5%A1+Inizio&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Pavel+Mare%C5%A1+Inizio&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Pavel+Mare%C5%A1+Inizio&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Pavel+Mare%C5%A1+Inizio&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Pavel+Mare%C5%A1+Inizio&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Pavel+Mare%C5%A1+Inizio&start=40",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Pavel+Mare%C5%A1+Inizio&start=50",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Pavel+Mare%C5%A1+Inizio&start=60",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Pavel+Mare%C5%A1+Inizio&start=70",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Pavel+Mare%C5%A1+Inizio&start=80",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=Pavel+Mare%C5%A1+Inizio&start=90"
+        }
+    }
+}

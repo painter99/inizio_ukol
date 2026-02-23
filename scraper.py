@@ -1,5 +1,6 @@
 import os # Načtení základní knihovny pro komunikaci s operačním systémem
 import requests # Načtení knihovny pro HTTP požadavky
+import json # Načtení knihovny pro práci s JSON daty
 from dotenv import load_dotenv # Načtení funkce z knihovny - prostředí z .env souboru
 
 load_dotenv() # Načtení proměnných prostředí z .env souboru do systému
@@ -17,4 +18,13 @@ params = {
 response = requests.get(url, params=params) # Odeslání GET požadavku na API SerpApi s danými parametry
 results = response.json() # Převod odpovědi z JSON formátu do Python slovníku
 
-print(results) # Výpis získaných výsledků na konzoli
+# print(results) # Výpis získaných výsledků do konzole
+
+# Otevře soubor 'vysledky.json' pro zápis ('w' = write)
+# encoding='utf-8', aby se nerozbila čeština!
+with open("vysledky.json", "w", encoding="utf-8") as f:
+    # json.dump vezme data a uloží je do souboru f
+    # indent=4 udělá to, že "bordel" bude čitelný
+    json.dump(results, f, indent=4, ensure_ascii=False)
+
+print("Data byla úspěšně uložena do souboru vysledky.json")
