@@ -1,7 +1,13 @@
-import os # Načtení základní knihovny pro komunikaci s operačním systémem
-import requests # Načtení knihovny pro HTTP požadavky
-import json # Načtení knihovny pro práci s JSON daty
-from dotenv import load_dotenv # Načtení funkce z knihovny - prostředí z .env souboru
+"""
+Inizio SEO Task - Modul pro stahování dat
+-----------------------------------------
+Autor: Pavel Mareš
+Poznámka: Vyrobeno po směnách na lakovně.
+"""
+
+import os
+import requests
+from dotenv import load_dotenv
 
 load_dotenv() # Načtení proměnných prostředí z .env souboru do systému
 
@@ -9,22 +15,18 @@ api_key = os.getenv("API_KEY") # Načtení hodnoty API_KEY z prostředí, které
 
 url = "https://serpapi.com/search" # URL pro API SerpApi
 
-params = {
-    "engine": "google",
-    "q": "Pavel Mareš Inizio",
-    "api_key": api_key
-} # Parametry pro API požadavek, včetně typu vyhledávače (Google), hledaného dotazu ("Pavel Mareš Inizio") a API klíče pro autentizaci
 
-response = requests.get(url, params=params) # Odeslání GET požadavku na API SerpApi s danými parametry
-results = response.json() # Převod odpovědi z JSON formátu do Python slovníku
+def ziskej_data(dotaz):
+    params = {
+        "engine": "google",
+        "q": dotaz,
+        "api_key": api_key
+    } # Sestavení parametrů pro API (dotaz přijde dynamicky z webového formuláře)
 
-# print(results) # Výpis získaných výsledků do konzole
+    response = requests.get(url, params=params) # Odeslání GET požadavku na API SerpApi s danými parametry
+    results = response.json() # Převod odpovědi z JSON formátu do Python slovníku
 
-# Otevře soubor 'vysledky.json' pro zápis ('w' = write)
-# encoding='utf-8', aby se nerozbila čeština!
-with open("vysledky.json", "w", encoding="utf-8") as f:
-    # json.dump vezme data a uloží je do souboru f
-    # indent=4 udělá to, že "bordel" bude čitelný
-    json.dump(results, f, indent=4, ensure_ascii=False)
+    return results # Vrácení získaných dat jako slovník
 
-print("Data byla úspěšně uložena do souboru vysledky.json")
+if __name__ == "__main__":
+    print(ziskej_data("Testovací dotaz"))
