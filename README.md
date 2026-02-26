@@ -68,7 +68,7 @@ flask-seo-scraper/
 
 ## Ukázka rozhraní
 
-![Webové rozhraní](docs/images/web_screenshot.png)
+![Webové rozhraní](docs/images/Screenshot_2026-02-26_16-44-49.png)
 
 ---
 
