@@ -41,17 +41,20 @@ Aplikace funguje na principu "Input → Process → Download".
 ```text
 flask-seo-scraper/
 ├── docs/
-│   └── images/         # Screenshoty pro dokumentaci
+│   ├── images/              # Screenshoty pro dokumentaci
+│   └── vysledky_ukazka.json # Ukázka výstupu scraperu
+├── .windsurf/
+│   └── workflows/           # Definice pracovních postupů pro AI
 ├── templates/
-│   └── index.html      # Frontend (HTML formulář)
+│   └── index.html           # Frontend (HTML formulář)
 ├── tests/
-│   └── test_scraper.py # Unit testy (mockování API)
-├── app.py              # Hlavní Flask aplikace (Controller)
-├── scraper.py          # Logika stahování dat (Model)
-├── requirements.txt    # Závislosti pro deployment
-├── .env                # API klíče (nejsou v repozitáři)
-├── LICENSE
-└── README.md
+│   └── test_scraper.py      # Unit testy (mockování API)
+├── app.py                   # Hlavní Flask aplikace (Controller)
+├── scraper.py               # Logika stahování dat (Model)
+├── requirements.txt         # Závislosti pro deployment
+├── .env                     # API klíče (nejsou v repozitáři)
+├── README.md                # Dokumentace
+└── LICENSE                  # Licence
 ```
 
 ---
