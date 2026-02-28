@@ -2,7 +2,7 @@
 .env
 __pycache__/
 vysledky.json
-.gitnexus
+.gitnexus/
 .claude/
 AGENTS.md
 CLAUDE.md
